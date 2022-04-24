@@ -5,14 +5,14 @@
 
 **O PSet é feito a implementação do modelo relacional do Elmasri.**
 
-**Para Executar o PostgreSQL siga essa ordem:**
+### Para Executar o **PostgreSQL** siga essa ordem:
 1. Execute o arquivo "UsuarioEDatabasePostgreSQL".
 > Esse arquivo contém como criar o usuário com senha, conceder privilégios a ele, criação do database e acessar manualmente o usuário criado.  
 2. Inserir a senha para o usuário **123**.
 3. Executar o arquivo "TabelasElmasriPostgreSQL".
 >Nesse arquivo tem a criação do schema, configurações do schema, criação das tabelas e a inserção de dados nas tabelas.
 
-**Para Executar a MariaDB siga essa ordem:**
+### Para Executar a **MariaDB** siga essa ordem:
 1. Executar o arquivo "ElmasriMariaDB".
 >Esse arquivo contém como criar o usuário com senha, conceder privilégios a ele e criação do database. Para a inserção de dados nas tabelas é feito pelo usuário root. 
 
